@@ -1,3 +1,3 @@
 console.log("Hello world!");
 
-// I am adding code as another person!
+// I have added code!
